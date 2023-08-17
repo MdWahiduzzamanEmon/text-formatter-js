@@ -1,0 +1,41 @@
+{
+  "name": "text-formatter-js",
+  "version": "0.0.1",
+  "private": false,
+  "description": "This is a simple text formatter package for javascript. It can be used to format text in different ways.",
+  "author": "Md Wahiduzzaman Emon",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "text",
+    "formatter",
+    "text formatter",
+    "text formatter js",
+    "text formatter javascript",
+    "text formatter package",
+    "text formatter package js",
+    "react",
+    "react text formatter",
+    "react text formatter js",
+    "vue",
+    "vue text formatter",
+    "vue text formatter js",
+    "angular",
+    "angular text formatter",
+    "angular text formatter js",
+    "text formatter for react",
+    "text formatter for vue",
+    "text formatter for angular"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdWahiduzzamanEmon/FileDownloader--js"
+  },
+  "bugs": {
+    "url": "https://github.com/MdWahiduzzamanEmon/FileDownloader--js/issues"
+  },
+  "homepage": "https://github.com/MdWahiduzzamanEmon/FileDownloader--js#readme"
+}
