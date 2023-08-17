@@ -1,3 +1,3 @@
-import { jsFileDownloader } from "./JsFileDownloader/JsFileDownloader";
+import { textFormatter } from "./textFormatter/textFormatter.js";
 
-export default jsFileDownloader;
+export default textFormatter;

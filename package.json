@@ -6,6 +6,7 @@
   "author": "Md Wahiduzzaman Emon",
   "license": "MIT",
   "main": "index.js",
+  "type": "module",
   "keywords": [
     "text",
     "formatter",
@@ -28,14 +29,14 @@
     "text formatter for angular"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MdWahiduzzamanEmon/FileDownloader--js"
+    "url": "git+https://github.com/MdWahiduzzamanEmon/text-formatter-js.git"
   },
   "bugs": {
-    "url": "https://github.com/MdWahiduzzamanEmon/FileDownloader--js/issues"
+    "url": "https://github.com/MdWahiduzzamanEmon/text-formatter-js/issues"
   },
-  "homepage": "https://github.com/MdWahiduzzamanEmon/FileDownloader--js#readme"
+  "homepage": "https://github.com/MdWahiduzzamanEmon/text-formatter-js#readme"
 }
