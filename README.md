@@ -25,16 +25,17 @@ import textFormatter from "text-formatter-js";
 
 ## How to use it in your project
 
-#### use this function in click event or any event
+#### use this function in your project and pass the text you want to format as a parameter
 
 ```javascript
 textFormatter("your text");
 ```
 
-### if you want to see the progress of the download, you can pass a function as the third parameter
+#### or you can store the returned value in a variable
 
 ```javascript
 const formattedText = textFormatter("your text");
+
 console.log(formattedText);
 ```
 
